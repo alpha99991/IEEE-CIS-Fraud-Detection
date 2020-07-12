@@ -8,3 +8,4 @@ The objective was to build a machine learning model to predict fraudulent transa
   3) Time consistency test was performed to discard certain useless features 
   4) XGBoost and Isolation Forest Algorithm has been used after suitable preprocessing of the data
   5) Sampling methods like SMOTE and Tomek Links were used in conjunction with algorithms to further improve accuracy
+  6) Memory Reduction has been done based on redundant memory storage to reduce both computation time and memory consumption
